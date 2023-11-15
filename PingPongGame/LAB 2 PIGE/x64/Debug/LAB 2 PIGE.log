@@ -1,0 +1,7 @@
+﻿  main.cpp
+  pong.cpp
+C:\Users\Rog Tuf\source\repos\PingPongGame\LAB 2 PIGE\pong.cpp(232,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rog Tuf\source\repos\PingPongGame\LAB 2 PIGE\pong.cpp(304,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rog Tuf\source\repos\PingPongGame\LAB 2 PIGE\pong.cpp(320,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LAB 2 PIGE.vcxproj -> C:\Users\Rog Tuf\source\repos\PingPongGame\x64\Debug\LAB 2 PIGE.exe
